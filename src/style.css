@@ -1,0 +1,142 @@
+html{
+    scroll-behavior: smooth;
+}
+.gradiant{
+    background: white url("./images/Banner_mage.png") no-repeat scroll center;
+    background-size: cover;
+}
+.adult-padiatric{
+    color: #ffff;
+    margin-top: 40px;
+}
+.Haematology{
+    color: lightgrey;
+    font-family: 'Cormorant Unicase', serif;
+}
+.btn-outline-danger{
+   margin-bottom: 30px;
+    margin-top: 20px;
+
+}
+.card1{
+    margin:5px;
+    width: 260px;
+    height: 165px;
+}
+
+.bonemarrow{
+    color: white;
+    background-color: blue;
+
+   font-size: 17px;
+    padding: 15px;
+}
+.btn-primary{
+    background: linear-gradient(45deg,#17EAD9,#6078EA);
+}
+/* .autologous-bone-marr {
+    color: #000000;
+    font-family: StagSans;
+    font-size: 14px;
+    width: 1068px;
+  } */
+  .icons1{
+   border: 1px solid gray;
+   padding: 14px;
+   border-radius: 5px;
+   box-shadow: 0 0 5px gray;
+   margin: 10px;
+   width: 270px;
+   height: 170px;
+  
+  }
+  .selectbox{
+      border: none;
+      border-bottom: 1px solid gray;
+  }
+  /* .icon2{
+      padding: 14px;
+      margin: 10px;
+  } */
+  .dropdown-toggle1{
+      border: none;
+      border-bottom: 1px solid gray;
+      color: blue;
+      font-size: 23px;
+      align-items: left;
+      text-align: left;
+  }
+
+  .accordion{
+      border: none;
+  }
+  .accordion-btn{
+      color: blue;
+      font-size: 25px;
+      text-align: left;
+      border: none;
+      position: relative; 
+      outline: none;   
+  }
+  .accordion-btn:hover{
+    color: blue;
+    font-size: 25px;
+    text-align: left;
+    border: none;
+    position: relative; 
+    outline: none;   
+}
+.accordion-btn:active{
+    color: blue;
+    font-size: 25px;
+    text-align: left;
+    border: none;
+    position: relative; 
+    outline: none;   
+}
+.accordion-btn:visited{
+    color: blue;
+    font-size: 25px;
+    text-align: left;
+    border: none;
+    position: relative; 
+    outline: none;   
+}
+  
+ 
+ .fa-caret-down{
+    position: absolute;
+    right: 0;
+    
+ }
+ .text-con{
+     position: relative;
+ }
+ .text-content{
+     font-size: 190px;
+     color: lightgrey;
+     position: absolute;  
+     top: -60px;
+     right: 15px;
+ }
+ footer{
+     background-color: black;
+     color: white;
+     text-align: center;
+     height: 200px;
+     padding: 30px;
+     font-size: 30px;
+     position: relative ;
+ }
+
+ footer i {
+     border-radius: 50%;
+     box-shadow: 0 0 15px;
+ }
+ footer img{
+  position: absolute;
+  background-color: tomato;
+  box-shadow: 0 0 30px violet;
+  border-radius: 15px;
+  right: 40px;
+ }
