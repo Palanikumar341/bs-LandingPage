@@ -1,0 +1,7 @@
+.bg-warning{
+    background: linear-gradient(45deg,black,orange);
+}
+.btn-danger{
+    background: linear-gradient(45deg,black,red);
+}
+
